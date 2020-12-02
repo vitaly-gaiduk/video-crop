@@ -1,3 +1,0 @@
-C:/Users/Vitaly/source/repos/video-crop/out/build/x64-Debug/CMakeFiles/video-crop.dir
-C:/Users/Vitaly/source/repos/video-crop/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Vitaly/source/repos/video-crop/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
